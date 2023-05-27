@@ -1,0 +1,23 @@
+*{
+    background-color:#32323a;
+}
+h1{
+      text-align:center;
+      color: #f83567;
+      
+      
+}
+h1:hover{
+    text-decoration:underline;
+    color:#14bdad;
+
+}
+p{
+    margin: 10px 10px;
+    padding: 10px 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#00a99d;
+}
+p:hover{
+    color: #2867b2;
+}
